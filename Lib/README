@@ -1,11 +1,10 @@
 E mai complicat sa adaug librariile in github, deci trebuie sa le adaugi tu manual
 
--cmake
--cv2
--dlib
--face_recognition
--numpy
--setuptool
+- cmake
+- opencv-python
+- dlib
+- face-recognition
+- numpy
 
 mai simplu e sa le instalezi din terminal
 
