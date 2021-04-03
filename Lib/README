@@ -1,0 +1,18 @@
+E mai complicat sa adaug librariile in github, deci trebuie sa le adaugi tu manual
+
+-cmake
+-cv2
+-dlib
+-face_recognition
+-numpy
+-setuptool
+
+mai simplu e sa le instalezi din terminal
+
+ex: pip install face-recognition
+
+si iti setezi pathul global la proiect:
+
+in basics.py sau attendanceProject.py
+File -> Settings -> Project:basics.py(sau attendanceProject.py) -> Python Interpreter si selectezi pathul global
+ex: C:\Users\Samy\AppData\Local\Programs\Python\Python39\python.exe
